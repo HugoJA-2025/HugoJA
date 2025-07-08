@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "es-MX"
 site_theme               : "default"
-title                    : "Hugo Juárez Anguiano"
+title                    : "Página principal"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Hugo Juárez Anguiano"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Matemáticas"
-  location         : "Earth"
+  location         : "Ciudad de México"
   employer         : "UAM Iztapalapa"
   uri              : # URL
   email            : "hjuarez@izt.uam.mx" 
