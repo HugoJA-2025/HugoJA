@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Hugo Juárez Anguiano"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Matemáticas"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Departamento de Matemáticas, UAM Iztapalapa"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hjuarez@izt.uam.mx" 
 
   # Academic websites
   academia         : # URL
