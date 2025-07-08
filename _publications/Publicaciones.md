@@ -1,8 +1,3 @@
----
-   layout: page
-   title: Publicaciones
-   ---
-
-   ## Publicaciones académicas
+ ## Publicaciones académicas
 
    {% bibliography --file publicaciones %}
