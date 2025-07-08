@@ -308,6 +308,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-scholar
+
+scholar:
+  style: apa  # o el estilo de cita que prefieras
+  locale: es
+  bibliography: publicaciones.bib  # nombre de tu archivo bib
 
 # Mimic GitHub Pages with --safe
 whitelist:
